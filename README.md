@@ -1,2 +1,2 @@
 # Mapping
-Orphanet mapping web services  source code
+Orphanet Endpoint API  source code
